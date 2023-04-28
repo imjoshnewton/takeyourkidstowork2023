@@ -73,7 +73,9 @@ const Home: NextPage = () => {
                 href="/#daphne"
               >
                 <div className="flex flex-col gap-4">
-                  <h3 className="text-2xl font-bold">Daphne's Section →</h3>
+                  <h3 className="text-2xl font-bold">
+                    Daphne&apos;s Section →
+                  </h3>
                   <div className="text-lg">
                     Learn more about Daphne and what she learned at take your
                     kid to work day!
@@ -92,7 +94,9 @@ const Home: NextPage = () => {
                 href="/#audrey"
               >
                 <div className="flex flex-col gap-4">
-                  <h3 className="text-2xl font-bold">Audrey's Section →</h3>
+                  <h3 className="text-2xl font-bold">
+                    Audrey&apos;s Section →
+                  </h3>
                   <div className="text-lg">
                     Learn more about Audrey and what she learned at take your
                     kid to work day!
@@ -167,7 +171,7 @@ const Home: NextPage = () => {
                           Horses in the World.
                         </li>
                         <li>They Were Bred by the Gypsies of Great Britain.</li>
-                        <li>The Registry was Founded in the 90's.</li>
+                        <li>The Registry was Founded in the 90&apos;s.</li>
                         <li>Their Name Refers to How they Were Used.</li>
                         <li>They Have Feathering</li>
                       </ol>
@@ -344,7 +348,7 @@ const Home: NextPage = () => {
                         <li>
                           Their Name Probably Comes From Their Facial Expression
                         </li>
-                        <li>One Pug Saved His Royal Master's Life</li>
+                        <li>One Pug Saved His Royal Master&apos;s Life</li>
                       </ol>
                     </div>
                   </div>
