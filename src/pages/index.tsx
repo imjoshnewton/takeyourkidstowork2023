@@ -148,7 +148,7 @@ const Home: NextPage = () => {
             className="flex w-full max-w-5xl flex-1 flex-col text-white"
           >
             <motion.h3 className="mb-6 mt-8 text-center text-3xl font-bold">
-              What I Learned Today
+              What I Learned Today 🫶
             </motion.h3>
             <motion.div className=" mx-auto flex max-w-xl flex-col gap-4 text-center">
               <p>
@@ -171,7 +171,7 @@ const Home: NextPage = () => {
               viewport={{ once: true }}
               className="mb-6 mt-8 text-center text-3xl font-bold"
             >
-              Horse Breeds
+              🐴 Horse Breeds 🐴
             </motion.h3>
             <motion.div className="text-lg ">
               <ul className="flex flex-col gap-12">
@@ -184,9 +184,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Fresian</h4>
                   <div className="flex gap-8">
                     <img
                       src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRfcOQsAHDB2XW4XowH2pFLCWLb5xall1QDu3IjrBVNnf0k5axTEjQfQsgJwUxYp7hwhaOcRVoiuCPeK9o"
@@ -195,6 +194,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Fresian</h4>
                       <p>
                         The Fresian horse is one of my favorites because they
                         are so beautiful and I love their hair. They are also
@@ -225,9 +225,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Gypsy Vanner</h4>
                   <div className="flex gap-8">
                     <img
                       src="https://saddleupcolorado.net/product_images/uploaded_images/7masvpsef4921.jpg"
@@ -236,6 +235,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Gypsy Vanner</h4>
                       <p>
                         They are one of my favorite horses because they are very
                         beautiful and majestic!
@@ -263,9 +263,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Tennessee Walker</h4>
                   <div className="flex gap-8">
                     <img
                       src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRi4dlnT0jYm5Bt60Og0WTHVr4H2qNpEpEO-OoJ2IPjFm0LTcKz1mKDCztNOBsUzIkVtba16F_ACs5t5k8"
@@ -274,6 +273,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Tennessee Walker</h4>
                       <p>
                         They are one of my favorite horses because my favorite
                         horse was a Tennessee Walker.
@@ -308,9 +308,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Black Forest</h4>
                   <div className="flex gap-8">
                     <img
                       src="https://www.horsebreedspictures.com/wp-content/uploads/2015/10/Black-Forest-Horse.jpg"
@@ -319,6 +318,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Black Forest</h4>
                       <p>
                         They are one of my favorite horses because I like how
                         their mane is the opposite of the rest of their body.
@@ -355,9 +355,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Morgan</h4>
                   <div className="flex gap-8">
                     <img
                       src="https://upload.wikimedia.org/wikipedia/commons/4/49/ChestnutSilver.jpg"
@@ -366,6 +365,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Morgan</h4>
                       <p>
                         They are one of my favorites because they are very easy
                         to ride and they are very kind.
@@ -414,7 +414,7 @@ const Home: NextPage = () => {
             className="flex w-full max-w-5xl flex-1 flex-col text-white"
           >
             <motion.h3 className="mb-6 mt-8 text-center text-3xl font-bold">
-              What I Learned Today
+              What I Learned Today 👍
             </motion.h3>
             <motion.div className=" mx-auto flex max-w-xl flex-col gap-4 text-center">
               <p>
@@ -437,7 +437,7 @@ const Home: NextPage = () => {
               viewport={{ once: true }}
               className="mb-6 mt-8 text-center text-3xl font-bold"
             >
-              Puppies!
+              🐶 Puppies! 🐶
             </motion.h3>
             <motion.div className="text-lg ">
               <ul className="flex flex-col gap-12">
@@ -450,9 +450,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Border Collie</h4>
                   <div className="flex gap-8">
                     <img
                       src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQYdOSN4TVR9hf_D4i_03hAXFUzWYFbjZQudsMsuVToUZHPqvGSd5e5j-Qs26OsFRIF2EhNHybE7t_WWfE"
@@ -462,6 +461,7 @@ const Home: NextPage = () => {
                       height={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Border Collie</h4>
                       <p>
                         My dog, Teddy, is a border collie! He is so cute, so
                         fuzzy, has long hair, and always loves to play.
@@ -486,9 +486,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Pug</h4>
                   <div className="flex gap-8">
                     <img
                       src="http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRv0vZ3TceUwsZ5WDkysr4Y_2soBmWkOB7z04KLCXrEc4jzdqaQFi99PGK8AtI8JDrUSkxNDPHs6CLGjrA"
@@ -497,6 +496,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Pug</h4>
                       <p>
                         I love Pugs becaseu they are so adorable with there
                         adorable small noses. I just love them!
@@ -523,9 +523,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Poodle</h4>
                   <div className="flex gap-8">
                     <img
                       src="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRxfqSjBuNplIuvG_nvuHF9qkZ2F6cWhhl55GqxZ_kZNPJ9KsaerGhfnyinsDNuUrz7I2AiwvitRqgHflg"
@@ -534,6 +533,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Poodle</h4>
                       <p>
                         I love poodles because of their fuzzy hair. I love to
                         touch their ears and they are so beautiful.
@@ -563,9 +563,8 @@ const Home: NextPage = () => {
                     delay: 0.5,
                   }}
                   viewport={{ once: false }}
-                  className="flex flex-col"
+                  className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <h4 className="mb-3 text-3xl">Great Dane</h4>
                   <div className="flex gap-8">
                     <img
                       src="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSGFmHdpUwQvjLSaGVnl195DD4_f6NrJyy79EdbUh_OPLKpMrnU0P0Hqu-qATMhFP2n6l7FJj7kjQP4j2w"
@@ -574,6 +573,7 @@ const Home: NextPage = () => {
                       width={300}
                     />
                     <div className="flex flex-col gap-2">
+                      <h4 className="mb-3 text-3xl">Great Dane</h4>
                       <p>
                         I love great danes because they are so wild and so tall.
                         They are so much fun to play with. They will play with
