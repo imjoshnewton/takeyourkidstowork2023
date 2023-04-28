@@ -114,7 +114,24 @@ const Home: NextPage = () => {
             Daphne Newton
           </h2>
           <motion.div className="flex w-full max-w-5xl flex-1 flex-col text-white">
-            <motion.h3 className="mb-6 mt-16 text-center text-3xl font-bold">
+            <motion.h3 className="mb-6 mt-8 text-center text-3xl font-bold">
+              What I Learned Today
+            </motion.h3>
+            <motion.div className=" mx-auto flex max-w-xl flex-col gap-4 text-center">
+              <p>
+                I learned that my dad usually works from home but he took us to
+                his office in Claysville. He makes websites and web applications
+                that his customers use.
+              </p>
+              <p>
+                We learned a little bit about how websites work and how to code
+                them. We also learned how to publish a website online so that
+                othe people can see it.
+              </p>
+            </motion.div>
+          </motion.div>
+          <motion.div className="flex w-full max-w-5xl flex-1 flex-col text-white">
+            <motion.h3 className="mb-6 mt-8 text-center text-3xl font-bold">
               Horse Breeds
             </motion.h3>
             <motion.div className="text-lg ">
@@ -295,7 +312,24 @@ const Home: NextPage = () => {
             Audrey Newton
           </h1>
           <motion.div className="flex w-full max-w-5xl flex-1 flex-col text-white">
-            <motion.h3 className="mb-6 mt-16 text-center text-3xl font-bold">
+            <motion.h3 className="mb-6 mt-8 text-center text-3xl font-bold">
+              What I Learned Today
+            </motion.h3>
+            <motion.div className=" mx-auto flex max-w-xl flex-col gap-4 text-center">
+              <p>
+                I learned that my dad usually works from home but he took us to
+                his office in Claysville. He makes websites and web applications
+                that his customers use.
+              </p>
+              <p>
+                We learned a little bit about how websites work and how to code
+                them. We also learned how to publish a website online so that
+                othe people can see it.
+              </p>
+            </motion.div>
+          </motion.div>
+          <motion.div className="flex w-full max-w-5xl flex-1 flex-col text-white">
+            <motion.h3 className="mb-6 mt-8 text-center text-3xl font-bold">
               Puppies!
             </motion.h3>
             <motion.div className="text-lg ">
