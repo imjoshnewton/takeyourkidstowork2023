@@ -186,7 +186,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRfcOQsAHDB2XW4XowH2pFLCWLb5xall1QDu3IjrBVNnf0k5axTEjQfQsgJwUxYp7hwhaOcRVoiuCPeK9o"
                       alt="Fresian Horse"
@@ -227,7 +227,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="https://saddleupcolorado.net/product_images/uploaded_images/7masvpsef4921.jpg"
                       alt="Fresian Horse"
@@ -265,7 +265,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRi4dlnT0jYm5Bt60Og0WTHVr4H2qNpEpEO-OoJ2IPjFm0LTcKz1mKDCztNOBsUzIkVtba16F_ACs5t5k8"
                       alt="Fresian Horse"
@@ -310,7 +310,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="https://www.horsebreedspictures.com/wp-content/uploads/2015/10/Black-Forest-Horse.jpg"
                       alt="Fresian Horse"
@@ -357,7 +357,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="https://upload.wikimedia.org/wikipedia/commons/4/49/ChestnutSilver.jpg"
                       alt="Morgan Horse"
@@ -452,7 +452,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQYdOSN4TVR9hf_D4i_03hAXFUzWYFbjZQudsMsuVToUZHPqvGSd5e5j-Qs26OsFRIF2EhNHybE7t_WWfE"
                       alt="Fresian Horse"
@@ -488,7 +488,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRv0vZ3TceUwsZ5WDkysr4Y_2soBmWkOB7z04KLCXrEc4jzdqaQFi99PGK8AtI8JDrUSkxNDPHs6CLGjrA"
                       alt="Fresian Horse"
@@ -525,7 +525,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRxfqSjBuNplIuvG_nvuHF9qkZ2F6cWhhl55GqxZ_kZNPJ9KsaerGhfnyinsDNuUrz7I2AiwvitRqgHflg"
                       alt="Fresian Horse"
@@ -565,7 +565,7 @@ const Home: NextPage = () => {
                   viewport={{ once: false }}
                   className="flex flex-col rounded-xl border-2 border-white/90 p-6"
                 >
-                  <div className="flex gap-8">
+                  <div className="flex flex-col gap-8 md:flex-row">
                     <img
                       src="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSGFmHdpUwQvjLSaGVnl195DD4_f6NrJyy79EdbUh_OPLKpMrnU0P0Hqu-qATMhFP2n6l7FJj7kjQP4j2w"
                       alt="Fresian Horse"
